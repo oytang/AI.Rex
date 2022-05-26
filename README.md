@@ -8,5 +8,7 @@ An integrated framework for chemical reaction feasibility prediction. This is a 
     .
     ├── data                           # dataset, negative data generation, data split
     ├── RRD                            # a package to compute the Reactivity-Related bond/atom-wise Descriptors (RRD)
+    ├── TAGConv                        # a graph-based model, with baseline and QM-embedded implementation
+    ├── Transformer                    # a squence-based model, built upon Molecular Transformer
     ├── LICENSE
     └── README.md
